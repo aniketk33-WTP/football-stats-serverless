@@ -1,0 +1,11 @@
+### get teams data
+GET https://tzmccaa32c.execute-api.ap-south-1.amazonaws.com/dev/teams
+
+###
+GET https://tzmccaa32c.execute-api.ap-south-1.amazonaws.com/dev/getFavorites
+
+###
+POST https://tzmccaa32c.execute-api.ap-south-1.amazonaws.com/dev/addFavorite?id=1
+
+###
+DELETE https://tzmccaa32c.execute-api.ap-south-1.amazonaws.com/dev/deleteFavorite?id=1

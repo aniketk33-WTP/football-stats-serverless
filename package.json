@@ -1,0 +1,17 @@
+{
+  "name": "football-stats-serverless",
+  "version": "1.0.0",
+  "description": "",
+  "main": "handler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "aniket-kumar",
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {
+    "node-fetch": "^2.6.7"
+  }
+}
